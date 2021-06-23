@@ -1,0 +1,33 @@
+Haskell Links
+Software
+Haskell Plattform (inklusive GHC), die Minimalversion enthält alles was man zum Starten braucht, inklusive einer aktuellen, stabilen GHC version, Standardbibliotheken und Tools wie cabal, stack und haddock.
+Haskell Source Files editieren: Emacs für Haskell aufsetzen, siehe hier. Vim für Haskell aufsetzen, siehe hier. Eine Übersicht der Features verschiedener IDEs in Haskell findet sich in folgendem git-Repository.
+Versionskontrolle ist empfehlenswert. Die Uni Bielefeld stellt auch für Studenten ein Campuseigenes git zur Verfügung. Wichtig: Halten Sie Ihre eigenen Lösungen nicht-öffentlich.
+Haskell in 3D: Tetris (foldr durch Prelude.foldr in TetrisBoard.hs, Zeilen 42 und 45 ersetzen)
+Compile and Execute Haskell Online
+Haskell Operators and Lexical Notations
+Referenzen
+Haskell Homepage
+Haskell Dokumentation (Details zum Haskell Language Standard)
+Übersicht über die Standard-Haskell-Funktionen
+Auf der Suche nach Funktionen deren Namen man nicht kennt: The Haskell API Search Engine (Hoogle)
+Hayoo ist eine weitere Search Engine für Haskell Dokumentation.
+Hackage ist ein grosses Repository mit Haskell Paketen. Pakete können automatisch von Hackage mit Hilfe des Tools cabal-install runtergeladen und installiert werden.
+Lesen (free Online)
+Learn You a Haskell for Great Good! (Kursliteratur, siehe Präsenzübungen)
+A Gentle Introduction to Haskell
+Haskell-Kurs (auf Deutsch, von Ralf Hinze)
+Real World Haskell
+School of Haskell (Tutorial für Anfänger- bis zur fortgeschrittenen Haskellprogrammierung)
+Fixity Haskell (Unterpunkt 4.4.2 Fixity Declarations)
+Watching
+Simon Peyton Jones's Lecture "Classes, Jim, but not as we know them" (OPLSS 2013). Video in drei Teilen (Folien): 
+Video abspielen
+ Video abspielen
+ Video abspielen
+ 
+John Carmack's thoughts on Haskell.
+Hilfe/Community
+tryhaskell.org: Interaktive ghci Session im Browser inklusive sehr einfachem Tutorial. Verfügt über ein Interface zum #haskell IRC Channel.
+Der #haskell IRC-Channel ist ein großartiger Ort, um Hilfe zu erhalten, voll von freundlichen, hilfsbereiten Menschen.
+Die Haskell-beginners-Mailingliste ist ein guter Ort, um Fragen auf Anfängerebene zu stellen.
